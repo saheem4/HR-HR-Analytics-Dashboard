@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analyzing employee attrition, demographics, and job satisfaction to support HR decision-making.
 
-![HR Analytics Dashboard](screenshots/dashboard-overview.png)
-
 ## Overview
 
 Built on employee-level HR data (282 employees), this dashboard surfaces attrition trends across departments, age groups, and job roles — helping HR teams identify where and why employees are leaving, and prioritize retention efforts.
